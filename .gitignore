@@ -1,5 +1,6 @@
 *.class
 *.DS_Store
+*.cache
 /out
 
 # Mobile Tools for Java (J2ME)
